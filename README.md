@@ -7,6 +7,6 @@ I used a HP tower on which I installed Debian 13
 
 ![PC.jgp](PC.jpg)
 
-and LaCie hardDrives to store my videos once the server is operational.
+and LaCie hard drives to store my videos once the server is operational.
 
 ![LaCie.jpg](LaCie.jpg)
